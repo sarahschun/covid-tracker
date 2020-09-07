@@ -7,9 +7,9 @@
 
 #### 1. Download the `code` into your machine
 #### 2. From the terminal, run the following commands
-cd Desktop/covid-tracker
-npm install
-npm start
+cd Desktop/covid-tracker <br />
+npm install <br />
+npm start <br />
 
 #### 3. This should automatically begin deployment of the Covid-19 Tracker
 If not, Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -47,4 +47,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+
